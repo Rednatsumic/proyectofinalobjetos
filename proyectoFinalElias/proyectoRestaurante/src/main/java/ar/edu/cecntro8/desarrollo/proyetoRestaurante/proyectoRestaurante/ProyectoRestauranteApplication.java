@@ -1,0 +1,13 @@
+package ar.edu.cecntro8.desarrollo.proyetoRestaurante.proyectoRestaurante;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProyectoRestauranteApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProyectoRestauranteApplication.class, args);
+	}
+
+}
